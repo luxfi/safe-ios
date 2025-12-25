@@ -83,3 +83,11 @@ fastlane/test_output
 
 Firebase/
 .idea/
+
+
+
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+GROK.md
+QWEN.md
