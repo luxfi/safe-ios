@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="safe-ios" width="880"></p>
+
 # Safe{Wallet} iOS app
 Safe Multisig iOS app.
 
